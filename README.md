@@ -6,6 +6,7 @@
 - [Data sources](#data-sources)
 - [Tools](tools)
 - [Data cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploratory data analysis EDA](#exploratory-data-analysis-eda)
 - [Analysis and findings](#analysis-and-findings)
 - [Recommendation](#recommendation) 
 
@@ -14,6 +15,10 @@
 ### Project Overview
 This project aims to analyze the effectiveness and resistance status of different antibiotics prescribed for various medical conditions. 
 The dataset includes patient demographics, antibiotic types, dosages, frequencies, treatment durations, and effectiveness ratings.
+
+![Dash board](dashboard.png)
+
+![Dashboard](https://github.com/user-attachments/assets/9cbb60a0-efee-4bef-865c-7561cae90393)
 
 ### Data Sources
 Antibiotics Resistance Data: The primary data set used for this analysis is [Download.here](https://docs.google.com/spreadsheets/d/1brNbzJGz1cYkGqLkZ7smNOAfbdtDuAzW/edit?usp=sharing&ouid=103781266360086393532&rtpof=true&sd=true) about antibiotics used in hospitals.
@@ -27,6 +32,14 @@ Antibiotics Resistance Data: The primary data set used for this analysis is [Dow
 - Standardize Formats
 - Remove Duplicates
 - Convert Data Types
+
+### Exploratory Data Analysis EDA
+
+Eda involved exploring the Antibiotics Resistance data set to answer key questions such as;
+
+- What is the most effective antibiotics?
+- What is the most resistant antibiotics?
+  
 
 ### Analysis and Findings
 
